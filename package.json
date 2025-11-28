@@ -2,7 +2,7 @@
   "name": "the-punch-api",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",
@@ -32,5 +32,4 @@
     "nyc": "^17.1.0",
     "supertest": "^7.1.4"
   }
-
 }
